@@ -1,4 +1,3 @@
-import { JSONP_ERR_NO_CALLBACK } from "@angular/common/http/src/jsonp";
 import { Injectable } from "@angular/core";
 import { STORAGE_KEYS } from "../config/storage_keys.config";
 import { Cart } from "../models/cart";
